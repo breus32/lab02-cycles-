@@ -10,7 +10,7 @@ int main ()
     printf("\nProstie 4isla: %d", n);
 	
     for (i = 1; i < n; i++) {
-    	a = pros(i);
+    	a = FindPrime(i);
     	if (a == 1){
     		printf(" %d", i);
     	}
