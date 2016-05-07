@@ -8,7 +8,7 @@ int main() {
     
 	while (n != 0){
         n=n/10;
-		i+=1;
+	i++;
     }
     printf("\nKoli4estvo cifr v 4isle = %d", i);
     return 0;
