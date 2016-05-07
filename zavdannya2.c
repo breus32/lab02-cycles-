@@ -12,5 +12,6 @@ int main() {
     }
     
     printf("\nKoli4estvo cifr v 4isle = %d", i);
+    
     return 0;
 }
