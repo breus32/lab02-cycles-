@@ -15,7 +15,7 @@ int main ()
     		printf(" %d", i);
     	}
     }
-	return 0;
+    return 0;
 }
 
 int FindPrime (int n)
@@ -31,6 +31,7 @@ int FindPrime (int n)
 	}
 	i++;
     }
-	return 1;
+    
+    return 1;
 }
 
