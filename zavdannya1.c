@@ -12,7 +12,7 @@ int main ()
     for (i = 1; i < n; i++) {
     	a = FindPrime(i);
     	if (a == 1){
-    		printf(" %d", i);
+    		printf("%d", i);
     	}
     }
     return 0;
