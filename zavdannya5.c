@@ -13,7 +13,6 @@ int main ()
     	sum = sum + dodanok;
     	printf ("\n%lf", dodanok);
     }
-    
     printf("\nSumma ravna %lf", sum);
 	
     return 0;
