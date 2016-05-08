@@ -12,7 +12,6 @@ int main ()
     for (i = 1; i <= max; i++) {
     	sum = 1 / pow ((2 * i), 2);
     }
-    
     printf("\nSumma ravna %lf", sum);
     
     return 0;
