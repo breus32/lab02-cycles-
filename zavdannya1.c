@@ -7,7 +7,7 @@ int main ()
     printf("Vvedite n: ");
     scanf("%d", &n);
 	
-    printf("\nProstie 4isla: %d", n);
+    printf("\nProstie 4isla:%d", n);
 	
     for (i = 1; i < n; i++) {
     	a = FindPrime(i);
