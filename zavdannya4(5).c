@@ -6,7 +6,7 @@ int main ()
     int max;
     double i, sum = 0, factorial = 1;
     
-    printf("max(i)= ");
+    printf("max(i)=");
     scanf("%d", &max);
     
     for (i = 1; i <= max; i++) {
