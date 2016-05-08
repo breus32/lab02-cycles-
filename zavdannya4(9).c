@@ -6,7 +6,7 @@ int main ()
     int max;
     double k, sum = 0;
     
-    printf("max(k)= ");
+    printf("max(k)=");
     scanf("%d", &max);
     
     for (k = 1; k <= max; k++) {
